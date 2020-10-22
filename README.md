@@ -18,17 +18,22 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Vlogs](#vlogs)
 - [Articles](#articles)
 
+-------------------
+
 ## Awesome lists
 - [Awesome Cosmos](https://github.com/cosmos/awesome):  Collection of Cosmos related resources 
 - [Awesoem CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
 - [Awesoem Cyber](https://github.com/CipherDogs/awesome-cyber): A curated list of cyber links, services, softwares and tools 
 - [Awesome Tendermint](https://github.com/tendermint/awesome): Collection of resources for all things Tendermint 
 
+
+-------------------
+
 ## Blogs
 ### General
 - [Cosmos](https://blog.cosmos.network): The main blog about Cosmos and its technology
 - [Cosmos Guardian](https://medium.com/the-cosmos-guardian): News around Cosmos
-- [FreeFlix](https://medium.com/freeflix A blog, among other things, about the Cosmos ecosystem news
+- [FreeFlix](https://medium.com/freeflix) A blog, among other things, about the Cosmos ecosystem news
 - [Tendermint](https://medium.com/tendermint): Blog of the Tednermint team
 
 ### Ecosystem
@@ -38,20 +43,28 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 ### Validators 
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
 
+-------------------
+
 ## Newsletters
 - [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (transalted to over 10 languages)
 - [Paradigm fund](https://medium.com/paradigm-fund): A bi-weekly report on the Cosmos ecosystem
+
+-------------------
 
 ## Podcasts
 - [Future of Staking Podcast Series](): ?
 - [Citizen Cosmos](https://www.citizencosmos.space/): A podcast about the masterminds behind the Cosmos blockchain ecosystem & web3 builders
 - [Interchain.fm](https://interchain.fm/):A monthly podcast that uncovers the vibrant world of bleeding edge research in tech
 
+-------------------
+
 ## SM
 - [Cosmos](https://twitter.com/cosmos): The main Twitter account of Cosmos
 - [Cosmos guardian](https://twitter.com/CosmosGuardian): News around Cosmos
 - [Cosmos Croatia](https://twitter.com/CosmosCroatia): Cosmos in croatian
 - [Staking Defense](): 
+
+-------------------
 
 ## Vlogs
 - [CosmWasm](https://vimeo.com/user109497220/videos): A collection of educaton videos, community calls, etc from the CosmWasm team
