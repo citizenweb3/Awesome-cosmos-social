@@ -1,6 +1,6 @@
-# Awesome Cosmos Media [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cosmos Social [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome blogs, podcasts, articles, etc about the Cosmos ecosystem 
+A collection of all awesome social-related things to Cosmos: blogs, newsletters, podcasts, events, etc  
 
 ## Contributing
 
@@ -12,9 +12,15 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
   * [General](#general)
   * [Ecosystem](#ecosystem)
   * [Validators](#validators)
+- [Events](#events)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [SM](#sm)
+  * [Forums](#forums)
+  * [Telegram](#telegram)
+  * [Twitter](#twitter)
+    * [General](#general.1)
+    * [Local](#local)
 - [Vlogs](#vlogs)
 - [Articles](#articles)
 
@@ -34,6 +40,7 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Cosmos](https://blog.cosmos.network): The main blog about Cosmos and its technology
 - [Cosmos Guardian](https://medium.com/the-cosmos-guardian): News around Cosmos
 - [FreeFlix](https://medium.com/freeflix) A blog, among other things, about the Cosmos ecosystem news
+- [staking Economy](https://medium.com/staking-economy): About Staking in general 
 - [Tendermint](https://medium.com/tendermint): Blog of the Tednermint team
 
 ### Ecosystem
@@ -42,6 +49,11 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### Validators 
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
+
+-------------------
+
+## Events 
+- [Cosmos Singapore](https://www.meetup.com/Cosmos-Singapore/): Singapore community events
 
 -------------------
 
@@ -59,10 +71,56 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 -------------------
 
 ## SM
+
+### Forums
+- [Cosmos Forum](https://forum.cosmos.network): The main cosmos forum
+- [Staking Defense](https://forum.stakingdefense.org/): About staking and decentralization
+
+### Telegram
+- [Hub Gov](https://t.me/hubgov): Cosmos hub governance working group
+- [Cosmos Inida](https://t.me/cosmosindia): Chat for India community
+- [Cosmos Hispanic](https://t.me/AtomHispano): Chat for Spanish community
+- [Cosmos Japan](https://t.me/joinchat/Eq9a5Q3yct2_2PlOC9ECLw): Chat for Japanese community
+- [Cosmos Korea](https://t.me/cosmoskr): Chat for Korean community
+- [Cosmos Romania](https://t.me/CosmosRomania): Chat for Romania community
+- [Cosmos Rus](): Chat for Ru community
+- [Cosmos Rus news](): Cosmos news in Russian
+- [Cosmos Singapore](https://t.me/cosmosSG): Chat for community from Singapore
+- [Cosmos Turkey](https://t.me/cosmosturkeycommunity): Chat for Turkish community
+
+### Twitter
+
+#### General
 - [Cosmos](https://twitter.com/cosmos): The main Twitter account of Cosmos
-- [Cosmos guardian](https://twitter.com/CosmosGuardian): News around Cosmos
-- [Cosmos Croatia](https://twitter.com/CosmosCroatia): Cosmos in croatian
-- [Staking Defense](): 
+- [Cosmos Guardian](https://twitter.com/CosmosGuardian): News around Cosmos
+- [Cosmos Gov](https://twitter.com/CosmosGov): Cosmos Governance group twitter
+- [Cosmos Outpost](https://twitter.com/CosmosOutpost): Macro-economic Insights Platform to visualize network trend and validator uptimes 
+- [Cosmos Validator](https://twitter.com/cosmosvalidator): Cosmos validator working group  
+- [CosmWasm](https://twitter.com/CosmWasm): CosmWasm Twitter
+- [Citizen Cosmos](https://twitter.com/cosmos_voice): Citizen Cosmos podcast and validator
+- [Decentralize Cosmos](https://twitter.com/cosmosdecentral): Monitoring decentralization in the Cosmos Network 
+- [Interchain Foundation](https://twitter.com/interchain_io): Interchain Foundation twitter
+- [Staking Defense](https://twitter.com/StakingDefense): Staking Defense Twitter 
+- [Staking Economy](https://twitter.com/StakingEconomy): Staking Economy Twitter
+- [Tendermint Core](https://twitter.com/Tendermint_Core): Tenderimnt core Twitter
+- [Tendermitn Team](https://twitter.com/tendermint_team): Tendermint team twitter
+
+#### Local
+- [Cosmos Africa](https://twitter.com/AfricaCosmos): African community
+- [Cosmos Bulgaria](https://twitter.com/CosmosBulgaria): Cosmos in Bulgarian 
+- [Cosmos Croatia](https://twitter.com/CosmosCroatia): Cosmos in Croatian
+- [Cosmos Hispanic](https://twitter.com/CosmosHispanic): Cosmos Spanish community
+- [Cosmos Honk Kong](https://twitter.com/CosmosHongKong): Cosmos Hong Kong community
+- [Cosmos India](https://twitter.com/cosmosindia_): Cosmos Inidan community
+- [Cosmos Japan](https://twitter.com/CosmosNetworkJP): Cosmos Japan community 
+- [Cosmos Korea](https://twitter.com/CosmosSKorea): Cosmos Korean community
+- [Cosmos Philipinos](https://twitter.com/CosmosFilipinos): Cosmos in Philipines
+- [Cosmos Romania](https://twitter.com/RomaniaCosmos): Cosmos in Romania
+- [Cosmos Rus](https://twitter.com/cosmos_rus): Cosmos In Russian
+- [Cosmos Singapore](https://twitter.com/CosmosSingapore): Cosmos in Singapore
+- [Cosmos Taiwan](https://twitter.com/CosmosTaiwan): Cosmos in Taiwanese
+- [Cosmos Turkey](https://twitter.com/cosmosatomtr): Cosmos in Turkish
+
 
 -------------------
 
