@@ -130,6 +130,10 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 -------------------------------------------
 
 ## Articles
+
+<details>
+<summary>To be added, by category?</summary>
+
 - [What is Cosmos?](https://cosmos.network/intro/)
 - [Learn how to use Gaia in Spanish using a virtual machine](https://github.com/Colm3na/MeetupCosmos)
 - [Tendermint Explained Bringing BFT-based PoS to the Public Blockchain Domain](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)
@@ -139,3 +143,5 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
 - [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479)
+ 
+   </details>
