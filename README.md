@@ -9,20 +9,29 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 ## Content
 - [Awesome lists](#awesome-lists)
 - [Blogs](#blogs)
-* [General](#general)
-* [Ecosystem](#ecosystem)
-* [Validators](#validators)
+    * [General](#general)
+    * [Ecosystem](#ecosystem)
+    * [Local](#local)
+    * [Validators](#validators)
 - [Events](#events)
-* [General](#general.1)
-* [Local](local)
+    * [General](#general-1)
+    * [Local](local-1)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [SM](#sm)
-* [Forums](#forums)
-* [Telegram](#telegram)
-* [Twitter](#twitter)
-* [General](#general.2)
-* [Local](#local)
+    * [Disocrd](#discord)
+    * [Forums](#forums)
+    * [Telegram](#telegram)
+        * [General](#general-2)
+        * [Ecosystem](#ecosystem-1)
+        * [Local](#local-2)
+        * [Validators](#validators-1)
+    * [Twitter](#twitter)
+        * [General](#general-3)
+        * [Ecosystem](#ecosystem-2)
+        * [Local](#local-3)
+        * [Solutions](#solutions)
+        * [Validators](#validators-2)
 - [Vlogs](#vlogs)
 - [Articles](#articles)
 
@@ -56,13 +65,13 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Thorchain](https://medium.com/thorchain): Thorchain's blog
 - [Secret Network](https://blog.scrt.network/): Secret Network's blog
 
-### Validators
-
-- [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
-
 ### Local
 
 - [Matter news](https://matters.news/): Forbole's Chinese bi-weekly reports
+
+### Validators
+
+- [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
 
 -------------------
 
@@ -74,7 +83,19 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### Local
 
+- [Cosmos Berlin](https://www.meetup.com/Cosmos_Berlin): German community events
+- [Cosmos India](https://www.meetup.com/Cosmos-India): Indian community events
+- [Cosmos Moscow](https://www.meetup.com/Cosmos-Moscow/): Online events in Russian about Cosmos
+- [Cosmos Nigeria](https://www.meetup.com/Cosmos-Nigeria): Nigeria community events
+- [Cosmos New York](https://www.meetup.com/Cosmos-The-Internet-of-Blockchains-New-York): NY community events
+- [Cosmos San Francisco](https://www.meetup.com/Cosmos_SF): SF community events
+- [Cosmos Seoul](https://www.meetup.com/Cosmos-Seoul): Korean community events
+- [Cosmos Shanghai](https://www.meetup.com/Cosmos-Shanghai): Shanghai community events
 - [Cosmos Singapore](https://www.meetup.com/Cosmos-Singapore/): Singapore community events
+- [Cosmos Spain](https://www.meetup.com/Cosmos-Spain): Spanish community events
+- [Cosmos Switzerland](https://www.meetup.com/cosmos-switzerland): Swiss community events
+- [Cosmos Thailand](https://www.meetup.com/Cosmos-Thailand): Thai community events
+- [Cosmos Toronto](https://www.meetup.com/Toronto-Cosmos-Meetup-Group): Toronto community events
 
 -------------------
 
