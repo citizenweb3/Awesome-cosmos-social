@@ -1,6 +1,6 @@
 # Awesome Cosmos Social [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of all awesome social-related things to Cosmos: blogs, newsletters, podcasts, events, etc  
+A collection of all awesome social-related things to Cosmos: blogs, newsletters, podcasts, events, etc
 
 ## Contributing
 
@@ -9,123 +9,214 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 ## Content
 - [Awesome lists](#awesome-lists)
 - [Blogs](#blogs)
-  * [General](#general)
-  * [Ecosystem](#ecosystem)
-  * [Validators](#validators)
+* [General](#general)
+* [Ecosystem](#ecosystem)
+* [Validators](#validators)
 - [Events](#events)
+* [General](#general.1)
+* [Local](local)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [SM](#sm)
-  * [Forums](#forums)
-  * [Telegram](#telegram)
-  * [Twitter](#twitter)
-    * [General](#general.1)
-    * [Local](#local)
+* [Forums](#forums)
+* [Telegram](#telegram)
+* [Twitter](#twitter)
+* [General](#general.2)
+* [Local](#local)
 - [Vlogs](#vlogs)
 - [Articles](#articles)
 
 -------------------
 
 ## Awesome lists
-- [Awesome Cosmos](https://github.com/cosmos/awesome):  Collection of Cosmos related resources 
-- [Awesoem CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
-- [Awesoem Cyber](https://github.com/CipherDogs/awesome-cyber): A curated list of cyber links, services, softwares and tools 
-- [Awesome Tendermint](https://github.com/tendermint/awesome): Collection of resources for all things Tendermint 
 
+- [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
+- [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
+- [Awesome Cyber](https://github.com/CipherDogs/awesome-cyber): A curated list of cyber links, services, software and tools
+- [Awesome Tendermint](https://github.com/tendermint/awesome): Collection of resources for all things Tendermint
 
 -------------------
 
 ## Blogs
+
 ### General
+
 - [Cosmos](https://blog.cosmos.network): The main blog about Cosmos and its technology
 - [Cosmos Guardian](https://medium.com/the-cosmos-guardian): News around Cosmos
 - [FreeFlix](https://medium.com/freeflix) A blog, among other things, about the Cosmos ecosystem news
-- [staking Economy](https://medium.com/staking-economy): About Staking in general 
+- [Paradigm](https://medium.com/paradigm-fund): A bi-weekly overview of the ecosystem and more
+- [Staking Economy](https://medium.com/staking-economy): About Staking in general
 - [Tendermint](https://medium.com/tendermint): Blog of the Tednermint team
 
 ### Ecosystem
-- [cyber~Congress DAO](https://cybercongress.ai/post/): Cyber's blog 
-- [Secret Network](https://blog.scrt.network/): Secret Network blog 
 
-### Validators 
+- [cyber~Congress DAO](https://cybercongress.ai/post/): Cyber's blog
+- [e-Money](https://medium.com/e-money-com): e-Money's blog
+- [Persistance](https://persistenceone.medium.com/): Persistance's blog
+- [Thorchain](https://medium.com/thorchain): Thorchain's blog
+- [Secret Network](https://blog.scrt.network/): Secret Network's blog
+
+### Validators
+
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
+
+### Local
+
+- [Matter news](https://matters.news/): Forbole's Chinese bi-weekly reports
 
 -------------------
 
-## Events 
+## Events
+
+### General
+
+- [Cosmos ecosystem](https://cosmos.network/events/): A comprehensive list of all major ecosystem events
+
+### Local
+
 - [Cosmos Singapore](https://www.meetup.com/Cosmos-Singapore/): Singapore community events
 
 -------------------
 
 ## Newsletters
-- [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (transalted to over 10 languages)
+
+- [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (translated to over 10 languages)
+- [Freeflix Weekly](https://freeflix.substack.com/): Weekly reports about the Cosmos ecosystem
 - [Paradigm fund](https://medium.com/paradigm-fund): A bi-weekly report on the Cosmos ecosystem
 
 -------------------
 
 ## Podcasts
-- [Future of Staking Podcast Series](): ?
+
 - [Citizen Cosmos](https://www.citizencosmos.space/): A podcast about the masterminds behind the Cosmos blockchain ecosystem & web3 builders
 - [Interchain.fm](https://interchain.fm/):A monthly podcast that uncovers the vibrant world of bleeding edge research in tech
+- [Future of Staking Podcast Series](): ?
+- [The Regenerative Agroforestry podcast](https://www.regenerativeagroforestry.org/): Regent's network podcast about regeneration and ecology
 
 -------------------
 
 ## SM
 
+### Discord
+
+- [Cosmos Discord Server](https://discord.gg/xeppPnQ): The main ecosystem Discord server
+
 ### Forums
+
 - [Cosmos Forum](https://forum.cosmos.network): The main cosmos forum
 - [Staking Defense](https://forum.stakingdefense.org/): About staking and decentralization
 
 ### Telegram
+
+#### General
+
+- [Cosmos Announcements](https://t.me/Cosmos_Announcements): Main announcement channel for the ecosystem
+- [Cosmos Project](https://t.me/cosmosproject): The main TG ecosystem group
+- [Cosmos Alliance](https://t.me/cosmos_alliance): A community managed group chat
+- [Cosmos DVD](https://t.me/CosmosDVD): Dev help chat
+- [Cosmos Network Community](https://t.me/CosmosNetworkCommunity): A community managed group chat
+- [Cosmostation](https://t.me/cosmostation): Cosmostation main chat
+- [Citizen Cosmos](https://t.me/citizen_cosmos): Citizen Cosmos podcast and validator announcement channel
 - [Hub Gov](https://t.me/hubgov): Cosmos hub governance working group
-- [Cosmos Inida](https://t.me/cosmosindia): Chat for India community
+
+#### Ecosystem
+
+- [Cyber's fuckgoogle](https://t.me/fuckgoogle): Cyber's main group chat
+- [Cyber Russian community](https://t.me/cyber_russian_community): Cyber's RU chat
+- [Irisnetwork](https://t.me/irisnetwork): The main chat of Irisnetwork
+- [Kava](https://t.me/kavalabs): Kava's group chat
+- [Kava Announcements](https://t.me/kavaofficial): Kava's announcement channel
+- [Kira Network](https://t.me/kirainterex): Kira network's main group chat
+- [Regen Network](https://t.me/regennetwork_public): Regen Network's main group chat
+
+#### Local
+
+- [Cosmos India](https://t.me/cosmosindia): Chat for India community
 - [Cosmos Hispanic](https://t.me/AtomHispano): Chat for Spanish community
+- [Cosmos Hispanic 2](https://t.me/Cosmos_Network_ES): Chat for Spanish community
 - [Cosmos Japan](https://t.me/joinchat/Eq9a5Q3yct2_2PlOC9ECLw): Chat for Japanese community
 - [Cosmos Korea](https://t.me/cosmoskr): Chat for Korean community
 - [Cosmos Romania](https://t.me/CosmosRomania): Chat for Romania community
-- [Cosmos Rus](): Chat for Ru community
-- [Cosmos Rus news](): Cosmos news in Russian
+- [Cosmos Rus](https://t.me/CosmosprojectRu): Chat for Ru community
+- [Cosmos Rus news](https://t.me/cosmosinrussian): Cosmos news in Russian
 - [Cosmos Singapore](https://t.me/cosmosSG): Chat for community from Singapore
 - [Cosmos Turkey](https://t.me/cosmosturkeycommunity): Chat for Turkish community
+- [Chorus One](https://t.me/chorusone): Chorus one group chat
+
+#### Validators
+
+- [Everstake](https://t.me/everstake_chat): Everstake's validator group chat
+- [SikkaTech](https://t.me/sikkatech): Sikka's group chat
+- [Stakefish](https://t.me/stakefish): Stakefish validator chat
+- [Stake Capital](https://t.me/StakeCapital): Stake's capital group chat
+- [Staking Hub](https://t.me/StakingHub): Staking hub's group chat (Figment)
 
 ### Twitter
 
 #### General
+
 - [Cosmos](https://twitter.com/cosmos): The main Twitter account of Cosmos
 - [Cosmos Guardian](https://twitter.com/CosmosGuardian): News around Cosmos
 - [Cosmos Gov](https://twitter.com/CosmosGov): Cosmos Governance group twitter
-- [Cosmos Outpost](https://twitter.com/CosmosOutpost): Macro-economic Insights Platform to visualize network trend and validator uptimes 
-- [Cosmos Validator](https://twitter.com/cosmosvalidator): Cosmos validator working group  
+- [Cosmos Outpost](https://twitter.com/CosmosOutpost): Macro-economic Insights Platform to visualize network trend and validator uptimes
+- [Cosmos-SDK](https://twitter.com/cosmossdk): Developers news and updates
+- [Cosmos Validator](https://twitter.com/cosmosvalidator): Cosmos validator working group
 - [CosmWasm](https://twitter.com/CosmWasm): CosmWasm Twitter
 - [Citizen Cosmos](https://twitter.com/cosmos_voice): Citizen Cosmos podcast and validator
-- [Decentralize Cosmos](https://twitter.com/cosmosdecentral): Monitoring decentralization in the Cosmos Network 
+- [Decentralize Cosmos](https://twitter.com/cosmosdecentral): Monitoring decentralization in the Cosmos Network
+- [Ethan Buchamn](https://twitter.com/buchmanster): Cosmos's co-founder public Twitter account
+- [Informalinc](https://twitter.com/informalinc): Informal Systems main Twitter account
 - [Interchain Foundation](https://twitter.com/interchain_io): Interchain Foundation twitter
-- [Staking Defense](https://twitter.com/StakingDefense): Staking Defense Twitter 
+- [Keplr](https://twitter.com/cosmoskeplr): Keplr's wallet Twitter account
+- [Staking Defense](https://twitter.com/StakingDefense): Staking Defense Twitter
 - [Staking Economy](https://twitter.com/StakingEconomy): Staking Economy Twitter
 - [Tendermint Core](https://twitter.com/Tendermint_Core): Tenderimnt core Twitter
 - [Tendermitn Team](https://twitter.com/tendermint_team): Tendermint team twitter
 
+#### Ecosystem
+
+- [Bitsong](https://twitter.com/BitSongOfficial): Bitsong's Twitter
+- [Certic](https://twitter.com/certik_io): Certic's main Twitter
+- [Irisnetwork](https://twitter.com/irisnetwork): Irisnetwork's main Twitter page
+- [Kava](https://twitter.com/kava_labs): Kava's main Twitter page
+- [Regen Network](https://twitter.com/regen_network): Regen network's Twitter account
+- [Secret Network](https://twitter.com/SecretNetwork): Secret network's Twitter page
+- [Sentinel](https://twitter.com/Sentinel_co): Sentinel main Twitter page
+
 #### Local
+
 - [Cosmos Africa](https://twitter.com/AfricaCosmos): African community
-- [Cosmos Bulgaria](https://twitter.com/CosmosBulgaria): Cosmos in Bulgarian 
+- [Cosmos Bulgaria](https://twitter.com/CosmosBulgaria): Cosmos in Bulgarian
 - [Cosmos Croatia](https://twitter.com/CosmosCroatia): Cosmos in Croatian
 - [Cosmos Hispanic](https://twitter.com/CosmosHispanic): Cosmos Spanish community
 - [Cosmos Honk Kong](https://twitter.com/CosmosHongKong): Cosmos Hong Kong community
-- [Cosmos India](https://twitter.com/cosmosindia_): Cosmos Inidan community
-- [Cosmos Japan](https://twitter.com/CosmosNetworkJP): Cosmos Japan community 
+- [Cosmos India](https://twitter.com/cosmosindia_): Cosmos Indian community
+- [Cosmos Japan](https://twitter.com/CosmosNetworkJP): Cosmos Japan community
 - [Cosmos Korea](https://twitter.com/CosmosSKorea): Cosmos Korean community
-- [Cosmos Philipinos](https://twitter.com/CosmosFilipinos): Cosmos in Philipines
+- [Cosmos Philippines](https://twitter.com/CosmosFilipinos): Cosmos in Philippines
 - [Cosmos Romania](https://twitter.com/RomaniaCosmos): Cosmos in Romania
 - [Cosmos Rus](https://twitter.com/cosmos_rus): Cosmos In Russian
 - [Cosmos Singapore](https://twitter.com/CosmosSingapore): Cosmos in Singapore
 - [Cosmos Taiwan](https://twitter.com/CosmosTaiwan): Cosmos in Taiwanese
 - [Cosmos Turkey](https://twitter.com/cosmosatomtr): Cosmos in Turkish
 
+#### Solutions
+
+- [Chainapsis](https://twitter.com/chainapsis): Chainapsis Twitter account
+- [VitVit](https://twitter.com/vitwit_): An Indian development company, building blockchain solutions
+
+#### Validators
+
+- [Bharvest](https://twitter.com/harvest_io): Bharvet's main Twitter page
+- [Staking Hub](https://twitter.com/StakingHub): Staking Hub Twitter page
 
 -------------------
 
 ## Vlogs
-- [CosmWasm](https://vimeo.com/user109497220/videos): A collection of educaton videos, community calls, etc from the CosmWasm team
+
+- [Cosmos](https://www.youtube.com/channel/UC8HFOUdnMnpoWmQMgeKoB3A): Cosmos's main video blog with explanations, community discussions, etc
+- [CosmWasm](https://vimeo.com/user109497220/videos): A collection of education videos, community calls, etc from the CosmWasm team
+- [Secret Network](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw): Secret's network YouTube account
 
 -------------------------------------------
 
@@ -143,5 +234,5 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
 - [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479)
- 
-   </details>
+
+</details>
