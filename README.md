@@ -44,7 +44,7 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 <details>
 <summary>Click here to see the Awesome Lists</summary>
-   
+    
 - [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
 - [Awesome Cyber](https://github.com/CipherDogs/awesome-cyber): A curated list of cyber links, services, software and tools
@@ -58,6 +58,9 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### General
 
+<details>
+<summary>Click here to see the General blog list</summary>
+
 - [Cosmos](https://blog.cosmos.network): The main blog about Cosmos and its technology
 - [Cosmos Guardian](https://medium.com/the-cosmos-guardian): News around Cosmos
 - [FreeFlix](https://medium.com/freeflix) A blog, among other things, about the Cosmos ecosystem news 
@@ -66,7 +69,12 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Staking Economy](https://medium.com/staking-economy): About Staking in general
 - [Tendermint](https://medium.com/tendermint): Blog of the Tednermint team
 
+</details>
+
 ### Ecosystem
+
+<details>
+<summary>Click here to see the Ecosystem blog list</summary>
 
 - [Akash](https://akash.network/blog/): Akashe's blog
 - [cyber~Congress DAO](https://cybercongress.ai/post/): Cyber's blog
@@ -81,16 +89,31 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Secret Network](https://blog.scrt.network/): Secret Network's blog
 - [Sentinel](https://medium.com/sentinel): Sentinel's blog
 
+</details>
+
 ### Local
+
+<details>
+<summary>Click here to see the Local blog list</summary>
 
 - [Cosmos India](https://medium.com/@CosmosIndia): A blog for the Indian audience
 - [Matter news](https://matters.news/): Forbole's Chinese bi-weekly reports
 
+</details>
+
 ### Tools and Wallets
+
+<details>
+<summary>Click here to see the blog list of Tools and Wallets</summary>
 
 - [Lunie](https://medium.com/luniehq): Lunie's blog
 
+</details>
+
 ### Validators
+
+<details>
+<summary>Click here to see the Validator blog list</summary>
 
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
 - [Cryptium](https://medium.com/cryptium): Cryptrium validaotr blog
@@ -99,6 +122,8 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Melea](https://meleatrust.com/blog/): Melea's blog
 - [Node A-Team](https://medium.com/node-a-team): Node A-Team validaotr blog
 - [P2P](https://economy.p2p.org/): P2P validator blog about economy and more
+
+</details>
 
 -------------------
 
