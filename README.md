@@ -7,42 +7,50 @@ A collection of all awesome social-related things to Cosmos: blogs, newsletters,
 Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/issues), open [a PR](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/pulls).
 
 ## Content
-- [Awesome lists](#awesome-lists)
-- [Blogs](#blogs)
+- [Awesome lists](#awesome-lists-bookmark_tabs)
+- [Blogs](#blogs-pencil2)
     * [General](#general)
     * [Ecosystem](#ecosystem)
     * [Local](#local)
+    * [Tools and Wallets](#tools-and-wallets)
     * [Validators](#validators)
-- [Events](#events)
+- [Events](#events-cocktail)
     * [General](#general-1)
     * [Local](local-1)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [SM](#sm)
+- [Newsletters](#newsletters-newspaper)
+- [Podcasts](#podcasts-microphone)
+- [SM](#sm-computer)
     * [Disocrd](#discord)
     * [Forums](#forums)
     * [Telegram](#telegram)
         * [General](#general-2)
         * [Ecosystem](#ecosystem-1)
         * [Local](#local-2)
+        * [Tools and Wallets](#tools-and-wallets-1)
         * [Validators](#validators-1)
     * [Twitter](#twitter)
         * [General](#general-3)
         * [Ecosystem](#ecosystem-2)
         * [Local](#local-3)
         * [Solutions](#solutions)
+        * [Tools and Wallets](#tools-and-wallets-2)
         * [Validators](#validators-2)
-- [Vlogs](#vlogs)
-- [Articles](#articles)
+- [Vlogs](#vlogs-movie_camera)
+- [Articles](#articles-memo)
 
 -------------------
 
 ## Awesome lists :bookmark_tabs:
 
+<details>
+<summary>Click here to see the Awesome Lists</summary>
+   
 - [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
 - [Awesome Cyber](https://github.com/CipherDogs/awesome-cyber): A curated list of cyber links, services, software and tools
 - [Awesome Tendermint](https://github.com/tendermint/awesome): Collection of resources for all things Tendermint
+
+</details>
 
 -------------------
 
