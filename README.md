@@ -37,7 +37,7 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 -------------------
 
-## Awesome lists
+## Awesome lists :bookmark_tabs:
 
 - [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
