@@ -104,7 +104,7 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 ### Tools and Wallets
 
 <details>
-<summary>Click here to see the blog list of Tools and Wallets</summary>
+<summary>Click here to see the blog list for Tools and Wallets</summary>
 
 - [Lunie](https://medium.com/luniehq): Lunie's blog
 
@@ -131,9 +131,17 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### General
 
+<details>
+<summary>Click here to see the General event list registry</summary>
+
 - [Cosmos ecosystem](https://cosmos.network/events/): A comprehensive list of all major ecosystem events
 
+</details>
+
 ### Local
+
+<details>
+<summary>Click here to see the Local event list registry</summary>
 
 - [Cosmos Berlin](https://www.meetup.com/Cosmos_Berlin): German community events
 - [Cosmos India](https://www.meetup.com/Cosmos-India): Indian community events
@@ -149,22 +157,34 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Cosmos Thailand](https://www.meetup.com/Cosmos-Thailand): Thai community events
 - [Cosmos Toronto](https://www.meetup.com/Toronto-Cosmos-Meetup-Group): Toronto community events
 
+</details>
+
 -------------------
 
 ## Newsletters :newspaper:
+
+<details>
+<summary>Click here to see the Newsletters list</summary>
 
 - [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (translated to over 10 languages)
 - [Freeflix Weekly](https://freeflix.substack.com/): Weekly reports about the Cosmos ecosystem
 - [Paradigm fund](https://medium.com/paradigm-fund): A bi-weekly report on the Cosmos ecosystem
 
+</details>
+
 -------------------
 
 ## Podcasts :microphone:
+
+<details>
+<summary>Click here to see the Podcasts list</summary>
 
 - [Citizen Cosmos](https://www.citizencosmos.space/): A podcast about the masterminds behind the Cosmos blockchain ecosystem & web3 builders
 - [Interchain.fm](https://interchain.fm/):A monthly podcast that uncovers the vibrant world of bleeding edge research in tech
 - [Future of Staking Podcast Series](): ?
 - [The Regenerative Agroforestry podcast](https://www.regenerativeagroforestry.org/): Regent's network podcast about regeneration and ecology
+
+</details>
 
 -------------------
 
@@ -172,17 +192,30 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### Discord
 
+<details>
+<summary>Click here to see the Discord servers list</summary>
+
 - [Cosmos Discord Server](https://discord.gg/xeppPnQ): The main ecosystem Discord server
 - [Akash](http://discord.akash.network/): Akashe's Discord
 
+</details>
+
 ### Forums
+
+<details>
+<summary>Click here to see the Forums list</summary>
 
 - [Cosmos Forum](https://forum.cosmos.network): The main Cosmos forum
 - [Staking Defense](https://forum.stakingdefense.org/): About staking and decentralization
 
+</details>
+
 ### Telegram
 
 #### General
+
+<details>
+<summary>Click here to see the General Telegram list</summary>
 
 - [Cosmos Announcements](https://t.me/Cosmos_Announcements): Main announcement channel for the ecosystem
 - [Cosmos Project](https://t.me/cosmosproject): The main TG ecosystem group
@@ -194,7 +227,12 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Hub Gov](https://t.me/hubgov): Cosmos hub governance working group
 - [IBC](https://t.me/ibcprotocol): IBC working group chat
 
+</details>
+
 #### Ecosystem
+
+<details>
+<summary>Click here to see the Ecosystem Telegram list</summary>
 
 - [Akash](https://t.me/AkashNW): Akashe's main group chat
 - [Cyber's fuckgoogle](https://t.me/fuckgoogle): Cyber's main group chat
@@ -208,7 +246,12 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Regen Network](https://t.me/regennetwork_public): Regen Network's main group chat
 - [Sentinel](https://t.me/sentinel_co): Sentinel's main group chat
 
+</details>
+
 #### Local
+
+<details>
+<summary>Click here to see the Local Telegram list</summary>
 
 - [Cosmos India](https://t.me/cosmosindia): Chat for India community
 - [Cosmos Hispanic](https://t.me/AtomHispano): Chat for Spanish community
@@ -222,11 +265,21 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Cosmos Turkey](https://t.me/cosmosturkeycommunity): Chat for Turkish community
 - [Chorus One](https://t.me/chorusone): Chorus one group chat
 
+</details>
+
 #### Tools and Wallets
+
+<details>
+<summary>Click here to see the Telegram list for Tools and Wallets</summary>
 
 - [Lunie](https://t.me/luniehq): Lunie's group chat
 
+</details>
+
 #### Validators
+
+<details>
+<summary>Click here to see the Validator Telegram list</summary>
 
 - [Cryptium](https://t.me/tezos_cryptiumlabs): Cryptium validator blog
 - [Everstake](https://t.me/everstake_chat): Everstake's validator group chat
@@ -238,9 +291,14 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Stake Capital](https://t.me/StakeCapital): Stake's capital group chat
 - [Staking Hub](https://t.me/StakingHub): Staking hub's group chat (Figment)
 
+</details>
+
 ### Twitter
 
 #### General
+
+<details>
+<summary>Click here to see the General Twitter list</summary>
 
 - [Cosmos](https://twitter.com/cosmos): The main Twitter account of Cosmos
 - [Cosmos Guardian](https://twitter.com/CosmosGuardian): News around Cosmos
@@ -261,7 +319,12 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Tendermint Core](https://twitter.com/Tendermint_Core): Tenderimnt core Twitter
 - [Tendermitn Team](https://twitter.com/tendermint_team): Tendermint team Twitter
 
+</details>
+
 #### Ecosystem
+
+<details>
+<summary>Click here to see the Ecosystem Twitter list</summary>
 
 - [Akash](https://twitter.com/akashnet_): Akash Twitter page
 - [Bitsong](https://twitter.com/BitSongOfficial): Bitsong's Twitter
@@ -277,7 +340,12 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Secret Network](https://twitter.com/SecretNetwork): Secret network's Twitter page
 - [Sentinel](https://twitter.com/Sentinel_co): Sentinel main Twitter page
 
+</details>
+
 #### Local
+
+<details>
+<summary>Click here to see the Local Twitter list</summary>
 
 - [Cosmos Africa](https://twitter.com/AfricaCosmos): African community
 - [Cosmos Bulgaria](https://twitter.com/CosmosBulgaria): Cosmos in Bulgarian
@@ -294,19 +362,34 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Cosmos Taiwan](https://twitter.com/CosmosTaiwan): Cosmos in Taiwanese
 - [Cosmos Turkey](https://twitter.com/cosmosatomtr): Cosmos in Turkish
 
+</details>
+
 #### Solutions
+
+<details>
+<summary>Click here to see the Twitter list for solutions companies</summary>
 
 - [Chainapsis](https://twitter.com/chainapsis): Chainapsis, developing Keplr and other solutions
 - [Chainsafe](https://twitter.com/chainsafeth): Developing bridges
 - [VitVit](https://twitter.com/vitwit_): An Indian development company, building blockchain solutions
 
+</details>
+
 #### Tools and Wallets
+
+<details>
+<summary>Click here to see the Twitter list for Tools and Wallets</summary>
 
 - [Big Dipper](https://twitter.com/bigdipperlive): Big Dipper's explorer Twitter
 - [Keplr](https://twitter.com/cosmoskeplr): Keplr's wallet Twitter account
 - [Lunie](https://twitter.com/luniehq): Lunie's wallet Twitter
 
+</details>
+
 #### Validators
+
+<details>
+<summary>Click here to see the Validator Twitter list</summary>
 
 - [Bharvest](https://twitter.com/harvest_io): Bharvest validator
 - [Cephalopod](https://twitter.com/CephalopodEquip): Cephalopod Twitter
@@ -321,20 +404,33 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 - [Persistance](https://twitter.com/PersistenceOne): Persistance validator
 - [Staking Hub](https://twitter.com/StakingHub): Staking Hub validator
 
+</details>
+
 -------------------
 
 ## Vlogs :movie_camera:
 
 ### General
+
+<details>
+<summary>Click here to see the General Vlog list</summary>
+   
 - [Cosmos](https://www.youtube.com/channel/UC8HFOUdnMnpoWmQMgeKoB3A): Cosmos's main video blog with explanations, community discussions, etc
 - [CosmWasm](https://vimeo.com/user109497220/videos): A collection of education videos, community calls, etc from the CosmWasm team
 - [Regen Network](https://www.youtube.com/channel/UCICD2WukTY0MbQdQ9Quew3g): Regen's videos + Cosmos SDK community calls
 
+</details>
+
 ### Ecosystem
+
+<details>
+<summary>Click here to see the Ecosystem Vlog list</summary>
 
 - [Cosmos India](https://www.youtube.com/channel/UCQ3uwjjx4D3M5VVw13hbYLA): Educational videos and meetups
 - [Cryptium Labs](https://www.youtube.com/channel/UC4l1S-MrAe9JLL_EAHFsBJQ): Cryptium Lbas YouTube account
 - [Secret Network](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw): Secret's network YouTube account
+
+</details>
 
 -------------------------------------------
 
