@@ -1,10 +1,12 @@
 # Awesome Cosmos Social [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of all awesome social-related things to Cosmos: blogs, newsletters, podcasts, events, etc
+A collection of all awesome social-related things to Cosmos: blogs, newsletters, podcasts, events, etc. 
+
+Simply go to a category from the content menu and click on it to expand the list that interests you.
 
 ## Contributing
 
-Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/issues), open [a PR](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/pulls).
+Open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/issues) or [a PR](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/pulls).
 
 ## Content
 - [Awesome lists](#awesome-lists-bookmark_tabs)
@@ -42,7 +44,10 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ## Awesome lists :bookmark_tabs:
 
-Awesome lists are subjective registiries of `cool` things related to certain projects or products. In this case Cosmos, Tendermint or any other ecosystem project.
+```
+Awesome lists are subjective registiries of cool and important things related to certain projects or products. 
+In this case Cosmos, Tendermint or any other ecosystem project
+```
 
 <details>
 <summary>Click here to see the ecosystem Awesome Lists</summary>
@@ -58,11 +63,17 @@ Awesome lists are subjective registiries of `cool` things related to certain pro
 
 ## Blogs :pencil2:
 
-Blogs are, of course, self-explanatory. Here is a comprehensive list of blogs related to the Cosmos ecosystem and its projects broken by category.
+```
+Blogs are, of course, self-explanatory. Here is a comprehensive list of blogs related to the Cosmos 
+ecosystem and its projects broken by category
+```
 
 ### General
 
-The general category is a list of blogs that will help you to get a better understanding of what's going on now around the Cosmos ecosystem, news, development progress, etc.
+```
+The general category is a list of blogs that will help you to get a better understanding of what's going on now 
+around the Cosmos ecosystem, news, development progress, etc
+```
 
 <details>
 <summary>Click here to see the General blog list</summary>
@@ -79,7 +90,9 @@ The general category is a list of blogs that will help you to get a better under
 
 ### Ecosystem
 
+```
 Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Tendermint
+```
 
 <details>
 <summary>Click here to see the Ecosystem blog list</summary>
@@ -101,7 +114,9 @@ Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Ten
 
 ### Local
 
-Blogs in languages, other than English, about the Cosmos ecosystem.
+```
+Blogs in languages, other than English, about the Cosmos ecosystem
+```
 
 <details>
 <summary>Click here to see the Local blog list</summary>
@@ -113,7 +128,9 @@ Blogs in languages, other than English, about the Cosmos ecosystem.
 
 ### Tools and Wallets
 
-Blogs of projects that build tools and wallets, but didnt fall into the general category, around the Cosmos ecosystem.
+```
+Blogs of projects that build tools and wallets, but didnt fall into the general category, around the Cosmos ecosystem
+```
 
 <details>
 <summary>Click here to see the blog list for Tools and Wallets</summary>
@@ -124,7 +141,9 @@ Blogs of projects that build tools and wallets, but didnt fall into the general 
 
 ### Validators
 
-Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogether.
+```
+Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogether
+```
 
 <details>
 <summary>Click here to see the Validator blog list</summary>
