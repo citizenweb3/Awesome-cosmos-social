@@ -42,8 +42,10 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ## Awesome lists :bookmark_tabs:
 
+Awesome lists are subjective registiries of `cool` things related to certain projects or products. In this case Cosmos, Tendermint or any other ecosystem project.
+
 <details>
-<summary>Click here to see the Awesome Lists</summary>
+<summary>Click here to see the ecosystem Awesome Lists</summary>
     
 - [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
@@ -56,7 +58,11 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ## Blogs :pencil2:
 
+Blogs are, of course, self-explanatory. Here is a comprehensive list of blogs related to the Cosmos ecosystem and its projects broken by category.
+
 ### General
+
+The general category is a list of blogs that will help you to get a better understanding of what's going on now around the Cosmos ecosystem, news, development progress, etc.
 
 <details>
 <summary>Click here to see the General blog list</summary>
@@ -72,6 +78,8 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 </details>
 
 ### Ecosystem
+
+Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Tendermint
 
 <details>
 <summary>Click here to see the Ecosystem blog list</summary>
@@ -93,6 +101,8 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### Local
 
+Blogs in languages, other than English, about the Cosmos ecosystem.
+
 <details>
 <summary>Click here to see the Local blog list</summary>
 
@@ -103,6 +113,8 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 
 ### Tools and Wallets
 
+Blogs of projects that build tools and wallets, but didnt fall into the general category, around the Cosmos ecosystem.
+
 <details>
 <summary>Click here to see the blog list for Tools and Wallets</summary>
 
@@ -111,6 +123,8 @@ Fork it, open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/
 </details>
 
 ### Validators
+
+Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogether.
 
 <details>
 <summary>Click here to see the Validator blog list</summary>
