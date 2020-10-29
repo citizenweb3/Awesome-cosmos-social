@@ -45,8 +45,8 @@ Open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/issues) o
 ## Awesome lists :bookmark_tabs:
 
 ```
-Awesome lists are subjective registiries of cool and important things related to certain projects or products. 
-In this case Cosmos, Tendermint or any other ecosystem project
+Awesome lists are subjective registiries of cool and important things related to certain 
+projects or products. In this case Cosmos, Tendermint or any other ecosystem project
 ```
 
 <details>
@@ -64,15 +64,15 @@ In this case Cosmos, Tendermint or any other ecosystem project
 ## Blogs :pencil2:
 
 ```
-Blogs are, of course, self-explanatory. Here is a comprehensive list of blogs related to the Cosmos 
-ecosystem and its projects broken by category
+Blogs are, of course, self-explanatory. Here is a comprehensive list of blogs related 
+to the Cosmos ecosystem and its projects broken by category
 ```
 
 ### General
 
 ```
-The general category is a list of blogs that will help you to get a better understanding of what's going on now 
-around the Cosmos ecosystem, news, development progress, etc
+The general category is a list of blogs that will help you to get a better understanding 
+of what's going on now around the Cosmos ecosystem, news, development progress, etc
 ```
 
 <details>
@@ -129,7 +129,8 @@ Blogs in languages, other than English, about the Cosmos ecosystem
 ### Tools and Wallets
 
 ```
-Blogs of projects that build tools and wallets, but didnt fall into the general category, around the Cosmos ecosystem
+Blogs of projects that build tools and wallets, but didnt fall into the general category, 
+around the Cosmos ecosystem
 ```
 
 <details>
@@ -243,10 +244,19 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 ## SM :computer:
 
+```
+Social Media profiles: Twitter accounts, discrod servers, forums, chats, etc.
+All related to the greater Cosmos ecosystem.
+```
+
 ### Discord
 
+```
+A list of Discord servers for the Cosmos ecosystem
+```
+
 <details>
-<summary>Click here to see the Discord servers list</summary>
+<summary>:point_right: Click here to see the Discord server list :point_left:</summary>
 
 - [Cosmos Discord Server](https://discord.gg/xeppPnQ): The main ecosystem Discord server
 - [Akash](http://discord.akash.network/): Akashe's Discord
@@ -255,20 +265,33 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 ### Forums
 
+```
+A list of public forums of Cosmos and realated projects
+```
+
 <details>
-<summary>Click here to see the Forums list</summary>
+<summary>:point_right: Click here to see the Forum list :point_left:</summary>
 
 - [Cosmos Forum](https://forum.cosmos.network): The main Cosmos forum
+- [cyber~Congress](https://ai.cybercongress.ai/): Cyber's forum about Cyber and the cyber~Congress DAO 
 - [Staking Defense](https://forum.stakingdefense.org/): About staking and decentralization
 
 </details>
 
 ### Telegram
 
+```
+Telegram chats are broken down into categories
+```
+
 #### General
 
+```
+The general category is for all chats that are about Cosmos generally and related working groups 
+```
+
 <details>
-<summary>Click here to see the General Telegram list</summary>
+<summary>:point_right: Click here to see the General Telegram list :point_left:</summary>
 
 - [Cosmos Announcements](https://t.me/Cosmos_Announcements): Main announcement channel for the ecosystem
 - [Cosmos Project](https://t.me/cosmosproject): The main TG ecosystem group
@@ -284,8 +307,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Ecosystem
 
+```
+The ecosystem Telegram list is for Cosmos-based projects chats
+```
+
 <details>
-<summary>Click here to see the Ecosystem Telegram list</summary>
+<summary>:point_right: Click here to see the Ecosystem Telegram list :point_left:</summary>
 
 - [Akash](https://t.me/AkashNW): Akashe's main group chat
 - [Cyber's fuckgoogle](https://t.me/fuckgoogle): Cyber's main group chat
@@ -303,8 +330,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Local
 
+```
+Telegram chat groups in languages other than English
+```
+
 <details>
-<summary>Click here to see the Local Telegram list</summary>
+<summary>:point_right: Click here to see the Local Telegram list :point_left:</summary>
 
 - [Cosmos India](https://t.me/cosmosindia): Chat for India community
 - [Cosmos Hispanic](https://t.me/AtomHispano): Chat for Spanish community
@@ -322,8 +353,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Tools and Wallets
 
+```
+A list of Telegram chats for tools and wallets that are Cosmos-related
+```
+
 <details>
-<summary>Click here to see the Telegram list for Tools and Wallets</summary>
+<summary>:point_right: Click here to see the Telegram list for Tools and Wallets :point_left:</summary>
 
 - [Lunie](https://t.me/luniehq): Lunie's group chat
 
@@ -331,8 +366,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Validators
 
+```
+Validator chat groups on Telegram (Cosmos ecosystem)
+```
+
 <details>
-<summary>Click here to see the Validator Telegram list</summary>
+<summary>:point_right: Click here to see the Telegram list for validator chats :point_left:</summary>
 
 - [Cryptium](https://t.me/tezos_cryptiumlabs): Cryptium validator blog
 - [Everstake](https://t.me/everstake_chat): Everstake's validator group chat
@@ -348,10 +387,19 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 ### Twitter
 
+```
+Twitter accounts contain some of the most important inforamtion about projects progress
+```
+
 #### General
 
+```
+Twitter accounts that are realted to Cosmos hub directly or of projects that do ecosystem overviews. 
+Also contains other accounts that we think are vital 
+```
+
 <details>
-<summary>Click here to see the General Twitter list</summary>
+<summary>:point_right: Click here to see the General Twitter list :point_left:</summary>
 
 - [Cosmos](https://twitter.com/cosmos): The main Twitter account of Cosmos
 - [Cosmos Guardian](https://twitter.com/CosmosGuardian): News around Cosmos
@@ -376,14 +424,18 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Ecosystem
 
+```
+Twitter accounts of projects that are building on Cosmos or work with it
+```
+
 <details>
-<summary>Click here to see the Ecosystem Twitter list</summary>
+<summary>:point_right: Click here to see the Ecosystem Twitter list :point_left:</summary>
 
 - [Akash](https://twitter.com/akashnet_): Akash Twitter page
 - [Bitsong](https://twitter.com/BitSongOfficial): Bitsong's Twitter
 - [Certic](https://twitter.com/certik_io): Certic's main Twitter
 - [Desmos](https://twitter.com/DesmosNetwork): Desmos network Twitter
-- [e-Monry](https://twitter.com/emoney_com): e-Money's Twitter
+- [e-Money](https://twitter.com/emoney_com): e-Money's Twitter
 - [Ethermint](https://twitter.com/ethermint): The EVM on Tendermint Twitter
 - [Informalinc](https://twitter.com/informalinc): Informal Systems main Twitter account
 - [Irisnetwork](https://twitter.com/irisnetwork): Irisnetwork's main Twitter page
@@ -397,8 +449,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Local
 
+```
+Twitter accouts about the Cosmos ecosystem in languages other than English
+```
+
 <details>
-<summary>Click here to see the Local Twitter list</summary>
+<summary>:point_right: Click here to see the Local Twitter list :point_left:</summary>
 
 - [Cosmos Africa](https://twitter.com/AfricaCosmos): African community
 - [Cosmos Bulgaria](https://twitter.com/CosmosBulgaria): Cosmos in Bulgarian
@@ -419,8 +475,13 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Solutions
 
+```
+Twitter accounts of compnaies that are building solutions, like bridges to other chains,
+for the Cosmos ecosystem
+```
+
 <details>
-<summary>Click here to see the Twitter list for solutions companies</summary>
+<summary>:point_right: Click here to see the Twitter list for solutions companies :point_left:</summary>
 
 - [Chainapsis](https://twitter.com/chainapsis): Chainapsis, developing Keplr and other solutions
 - [Chainsafe](https://twitter.com/chainsafeth): Developing bridges
@@ -430,8 +491,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Tools and Wallets
 
+```
+Twitter accounts of tools and wallets for the Cosmos ecosystem 
+```
+
 <details>
-<summary>Click here to see the Twitter list for Tools and Wallets</summary>
+<summary>:point_right: Click here to see the Twitter list for Tools and Wallets :point_left:</summary>
 
 - [Big Dipper](https://twitter.com/bigdipperlive): Big Dipper's explorer Twitter
 - [Keplr](https://twitter.com/cosmoskeplr): Keplr's wallet Twitter account
@@ -441,8 +506,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 #### Validators
 
+```
+Validator twitter accounts of the Cosmos ecosystem
+```
+
 <details>
-<summary>Click here to see the Validator Twitter list</summary>
+<summary>:point_right: Click here to see the Validator Twitter list :point_left:</summary>
 
 - [Bharvest](https://twitter.com/harvest_io): Bharvest validator
 - [Cephalopod](https://twitter.com/CephalopodEquip): Cephalopod Twitter
@@ -463,10 +532,18 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 ## Vlogs :movie_camera:
 
+```
+Video blogs and YoyTube channels are a great way of getting information across
+```
+
 ### General
 
+```
+A general list of YouTube and other video blog accounts that are vital for the Cosmos ecosystem
+```
+
 <details>
-<summary>Click here to see the General Vlog list</summary>
+<summary>:point_right: Click here to see the General Vlog list :point_left:</summary>
    
 - [Cosmos](https://www.youtube.com/channel/UC8HFOUdnMnpoWmQMgeKoB3A): Cosmos's main video blog with explanations, community discussions, etc
 - [CosmWasm](https://vimeo.com/user109497220/videos): A collection of education videos, community calls, etc from the CosmWasm team
@@ -476,8 +553,12 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 
 ### Ecosystem
 
+```
+Vlogs of ecosystem projects and loal communites around Cosmos
+```
+
 <details>
-<summary>Click here to see the Ecosystem Vlog list</summary>
+<summary>:point_right: Click here to see the Ecosystem Vlog list :point_left:</summary>
 
 - [Cosmos India](https://www.youtube.com/channel/UCQ3uwjjx4D3M5VVw13hbYLA): Educational videos and meetups
 - [Cryptium Labs](https://www.youtube.com/channel/UC4l1S-MrAe9JLL_EAHFsBJQ): Cryptium Lbas YouTube account
@@ -490,7 +571,7 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 ## Articles :memo:
 
 <details>
-<summary>To be added, by category?</summary>
+<summary>:point_right: To be added, by category? :point_left:</summary>
 
 - [What is Cosmos?](https://cosmos.network/intro/)
 - [Learn how to use Gaia in Spanish using a virtual machine](https://github.com/Colm3na/MeetupCosmos)
