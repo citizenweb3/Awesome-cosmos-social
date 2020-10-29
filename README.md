@@ -48,9 +48,9 @@ Open [an issue](https://github.com/citizen-cosmos/Awesome-Cosmos-Media/issues) o
 Awesome lists are subjective registiries of cool and important things related to certain projects or products. 
 In this case Cosmos, Tendermint or any other ecosystem project
 ```
-:arrow_down_small:
+
 <details>
-<summary>Click here to see the ecosystem Awesome Lists</summary> 
+<summary>:point_right: Click here to see the ecosystem Awesome Lists :point_left:</summary> 
     
 - [Awesome Cosmos](https://github.com/cosmos/awesome): Collection of Cosmos related resources
 - [Awesome CosmWasm](https://github.com/CosmWasm/cawesome-wasm): Curated list of tools, contracts, and projects working with CosmWasm
