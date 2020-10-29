@@ -76,7 +76,7 @@ around the Cosmos ecosystem, news, development progress, etc
 ```
 
 <details>
-<summary>Click here to see the General blog list</summary>
+<summary>:point_right: Click here to see the General blog list :point_left:</summary>
 
 - [Cosmos](https://blog.cosmos.network): The main blog about Cosmos and its technology
 - [Cosmos Guardian](https://medium.com/the-cosmos-guardian): News around Cosmos
@@ -95,7 +95,7 @@ Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Ten
 ```
 
 <details>
-<summary>Click here to see the Ecosystem blog list</summary>
+<summary>:point_right: Click here to see the Ecosystem blog list :point_left:</summary>
 
 - [Akash](https://akash.network/blog/): Akashe's blog
 - [cyber~Congress DAO](https://cybercongress.ai/post/): Cyber's blog
@@ -119,7 +119,7 @@ Blogs in languages, other than English, about the Cosmos ecosystem
 ```
 
 <details>
-<summary>Click here to see the Local blog list</summary>
+<summary>:point_right: Click here to see the Local blog list :point_left:</summary>
 
 - [Cosmos India](https://medium.com/@CosmosIndia): A blog for the Indian audience
 - [Matter news](https://matters.news/): Forbole's Chinese bi-weekly reports
@@ -133,7 +133,7 @@ Blogs of projects that build tools and wallets, but didnt fall into the general 
 ```
 
 <details>
-<summary>Click here to see the blog list for Tools and Wallets</summary>
+<summary>:point_right: Click here to see the blog list for Tools and Wallets :point_left:</summary>
 
 - [Lunie](https://medium.com/luniehq): Lunie's blog
 
@@ -142,11 +142,11 @@ Blogs of projects that build tools and wallets, but didnt fall into the general 
 ### Validators
 
 ```
-Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogether
+Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem altogether
 ```
 
 <details>
-<summary>Click here to see the Validator blog list</summary>
+<summary>:point_right: Click here to see the Validator blog list :point_left:</summary>
 
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
 - [Cryptium](https://medium.com/cryptium): Cryptrium validaotr blog
@@ -162,10 +162,18 @@ Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogeth
 
 ## Events :cocktail:
 
+```
+Events can be offline and online. This is a list of places where you can find Cosmos ecosystem-related events
+```
+
 ### General
 
+```
+The general category is for events about Cosmos in particular
+```
+
 <details>
-<summary>Click here to see the General event list registry</summary>
+<summary>:point_right: Click here to see the General event list :point_left:</summary>
 
 - [Cosmos ecosystem](https://cosmos.network/events/): A comprehensive list of all major ecosystem events
 
@@ -173,8 +181,12 @@ Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogeth
 
 ### Local
 
+```
+The local category is for events in languages other than English
+```
+
 <details>
-<summary>Click here to see the Local event list registry</summary>
+<summary>:point_right: Click here to see the Local event list registry :point_left:</summary>
 
 - [Cosmos Berlin](https://www.meetup.com/Cosmos_Berlin): German community events
 - [Cosmos India](https://www.meetup.com/Cosmos-India): Indian community events
@@ -196,8 +208,12 @@ Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogeth
 
 ## Newsletters :newspaper:
 
+```
+Newsletters about the Cosmos ecocsystem are a good way of gathering inforamtion in one place
+```
+
 <details>
-<summary>Click here to see the Newsletters list</summary>
+<summary>:point_right: Click here to see the Newsletters list :point_left:</summary>
 
 - [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (translated to over 10 languages)
 - [Freeflix Weekly](https://freeflix.substack.com/): Weekly reports about the Cosmos ecosystem
@@ -209,8 +225,12 @@ Validator blogs. Not just of those around Cosmos-hub, but the ecosystem altogeth
 
 ## Podcasts :microphone:
 
+```
+Podcasts about Cosmos, the people who are building it and projects that surround it
+```
+
 <details>
-<summary>Click here to see the Podcasts list</summary>
+<summary>:point_right: Click here to see the Podcasts list :point_left:</summary>
 
 - [Citizen Cosmos](https://www.citizencosmos.space/): A podcast about the masterminds behind the Cosmos blockchain ecosystem & web3 builders
 - [Interchain.fm](https://interchain.fm/):A monthly podcast that uncovers the vibrant world of bleeding edge research in tech
