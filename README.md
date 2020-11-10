@@ -136,8 +136,9 @@ around the Cosmos ecosystem
 <details>
 <summary>:point_right: Click here to see the blog list for Tools and Wallets :point_left:</summary>
 
-- [Lunie](https://medium.com/luniehq): Lunie's blog
-
+- [Lunie](https://medium.com/luniehq): Lunie's Medium blog
+- [Cosmostation](https://medium.com/cosmostation): Cosmostation's Medium blog
+- [Keplr](https://catdotfish.medium.com/how-to-use-keplr-wallet-40afc80907f6): Keplr Medium Blog Guide
 </details>
 
 ### Validators
