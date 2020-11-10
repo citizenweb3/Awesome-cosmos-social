@@ -156,6 +156,7 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [Melea](https://meleatrust.com/blog/): Melea's blog
 - [Node A-Team](https://medium.com/node-a-team): Node A-Team validaotr blog
 - [P2P](https://economy.p2p.org/): P2P validator blog about economy and more
+- [SG-1](https://medium.com/@sg_1/): SG-1's blog
 
 </details>
 
@@ -260,6 +261,7 @@ A list of Discord servers for the Cosmos ecosystem
 
 - [Cosmos Discord Server](https://discord.gg/xeppPnQ): The main ecosystem Discord server
 - [Akash](http://discord.akash.network/): Akashe's Discord
+- [Secret Network](https://discord.gg/HyvXHbqQ): Secret Network's Discord
 
 </details>
 
