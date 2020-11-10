@@ -212,7 +212,7 @@ The local category is for events in languages other than English
 ## Newsletters :newspaper:
 
 ```
-Newsletters about the Cosmos ecocsystem are a good way of gathering inforamtion in one place
+Newsletters about the Cosmos ecocsystem are a good way of gathering information in one place
 ```
 
 <details>
@@ -247,7 +247,7 @@ Podcasts about Cosmos, the people who are building it and projects that surround
 ## SM :computer:
 
 ```
-Social Media profiles: Twitter accounts, discrod servers, forums, chats, etc.
+Social Media profiles: Twitter accounts, discord servers, forums, chats, etc.
 All related to the greater Cosmos ecosystem.
 ```
 
@@ -269,7 +269,7 @@ A list of Discord servers for the Cosmos ecosystem
 ### Forums
 
 ```
-A list of public forums of Cosmos and realated projects
+A list of public forums of Cosmos and related projects
 ```
 
 <details>
@@ -317,7 +317,7 @@ The ecosystem Telegram list is for Cosmos-based projects chats
 <details>
 <summary>:point_right: Click here to see the Ecosystem Telegram list :point_left:</summary>
 
-- [Akash](https://t.me/AkashNW): Akashe's main group chat
+- [Akash](https://t.me/AkashNW): Akash's main group chat
 - [Cyber's fuckgoogle](https://t.me/fuckgoogle): Cyber's main group chat
 - [Cyber Russian community](https://t.me/cyber_russian_community): Cyber's RU chat
 - [e-Money](https://t.me/emoney_com): e-Momey's main chat
@@ -328,6 +328,7 @@ The ecosystem Telegram list is for Cosmos-based projects chats
 - [Persistance One](https://t.me/PersistenceOneChat): Persistance's main chat
 - [Regen Network](https://t.me/regennetwork_public): Regen Network's main group chat
 - [Sentinel](https://t.me/sentinel_co): Sentinel's main group chat
+- [Secret Network](https://t.me/SCRTCommunity): Secret Network's main group chat
 
 </details>
 
@@ -364,7 +365,8 @@ A list of Telegram chats for tools and wallets that are Cosmos-related
 <summary>:point_right: Click here to see the Telegram list for Tools and Wallets :point_left:</summary>
 
 - [Lunie](https://t.me/luniehq): Lunie's group chat
-
+- [Cosmostation](https://medium.com/cosmostation): Cosmostation's Medium blog
+- [Keplr](https://catdotfish.medium.com/how-to-use-keplr-wallet-40afc80907f6): Keplr Medium Blog Guide
 </details>
 
 #### Validators
@@ -385,6 +387,7 @@ Validator chat groups on Telegram (Cosmos ecosystem)
 - [Stakefish](https://t.me/stakefish): Stakefish validator chat
 - [Stake Capital](https://t.me/StakeCapital): Stake's capital group chat
 - [Staking Hub](https://t.me/StakingHub): Staking hub's group chat (Figment)
+- [SG-1](https://t.me/sg1online): SG-1 Validator's group chat
 
 </details>
 
@@ -479,7 +482,7 @@ Twitter accouts about the Cosmos ecosystem in languages other than English
 #### Solutions
 
 ```
-Twitter accounts of compnaies that are building solutions, like bridges to other chains,
+Twitter accounts of companies that are building solutions, like bridges to other chains,
 for the Cosmos ecosystem
 ```
 
@@ -489,7 +492,7 @@ for the Cosmos ecosystem
 - [Chainapsis](https://twitter.com/chainapsis): Chainapsis, developing Keplr and other solutions
 - [Chainsafe](https://twitter.com/chainsafeth): Developing bridges
 - [VitVit](https://twitter.com/vitwit_): An Indian development company, building blockchain solutions
-
+- [Secret Network](https://twitter.com/SecretNetwork): A Cosmos ecosystem project building - among other things - an Eth bridge via Enigma MPC
 </details>
 
 #### Tools and Wallets
@@ -520,15 +523,15 @@ Validator twitter accounts of the Cosmos ecosystem
 - [Cephalopod](https://twitter.com/CephalopodEquip): Cephalopod Twitter
 - [Cryptium Labs](https://twitter.com/CryptiumLabs): Crypterium Labs Twitter
 - [Dokia Capital](https://twitter.com/dokiacapital): Dokia Capital Twitter
-- [Dragon Stake](https://twitter.com/DragonStake): Dragon Stake validator
+- [Dragon Stake](https://twitter.com/DragonStake): Dragon Stake validator's Twitter
 - [Forbole](https://twitter.com/forbole): Forbole's Twitter
-- [KalpaTech](https://twitter.com/kalpa_tech): KalpaTech validator
+- [KalpaTech](https://twitter.com/kalpa_tech): KalpaTech validator's Twitter
 - [Melea](https://twitter.com/cryptomeleabs): Melea's Twitter
-- [Node A-Team](https://twitter.com/Node_Ateam): Node A team Twitter
-- [P2P](https://twitter.com/P2Pvalidator): P2P validator
-- [Persistance](https://twitter.com/PersistenceOne): Persistance validator
-- [Staking Hub](https://twitter.com/StakingHub): Staking Hub validator
-
+- [Node A-Team](https://twitter.com/Node_Ateam): Node A-team's Twitter
+- [P2P](https://twitter.com/P2Pvalidator): P2P validator's Twitter
+- [Persistance](https://twitter.com/AuditOne_): Persistence audit.one validator's Twitter
+- [Staking Hub](https://twitter.com/StakingHub): Staking Hub validator's Twitter
+- [SG-1](https://twitter.com/sg1_online): SG-1 Validator's Twitter
 </details>
 
 -------------------
@@ -536,7 +539,7 @@ Validator twitter accounts of the Cosmos ecosystem
 ## Vlogs :movie_camera:
 
 ```
-Video blogs and YoyTube channels are a great way of getting information across
+Video blogs and YouTube channels are a great way of getting information across
 ```
 
 ### General
@@ -557,15 +560,15 @@ A general list of YouTube and other video blog accounts that are vital for the C
 ### Ecosystem
 
 ```
-Vlogs of ecosystem projects and loal communites around Cosmos
+Vlogs of ecosystem projects and local communites around Cosmos
 ```
 
 <details>
 <summary>:point_right: Click here to see the Ecosystem Vlog list :point_left:</summary>
 
 - [Cosmos India](https://www.youtube.com/channel/UCQ3uwjjx4D3M5VVw13hbYLA): Educational videos and meetups
-- [Cryptium Labs](https://www.youtube.com/channel/UC4l1S-MrAe9JLL_EAHFsBJQ): Cryptium Lbas YouTube account
-- [Secret Network](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw): Secret's network YouTube account
+- [Cryptium Labs](https://www.youtube.com/channel/UC4l1S-MrAe9JLL_EAHFsBJQ): Cryptium Labs YouTube account
+- [Secret Network](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw): Secret Network's YouTube account
 
 </details>
 
