@@ -225,6 +225,7 @@ Newsletters about the Cosmos ecocsystem are a good way of gathering information 
 - [Today in Cosmos](https://twitter.com/adriana_kalpa): Daily overview of the Cosmos ecosystem on Twitter (translated to over 10 languages)
 - [Freeflix Weekly](https://freeflix.substack.com/): Weekly reports about the Cosmos ecosystem
 - [Paradigm fund](https://medium.com/paradigm-fund): A bi-weekly report on the Cosmos ecosystem
+- [Persistance community](https://persistenceone.medium.com/community-newsletter-1-october-2020-b566cca79f85): Persistance's community newsletter
 
 </details>
 
