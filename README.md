@@ -104,12 +104,16 @@ Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Ten
 - [Informal Systems](https://informal.systems/blog/): A blog about Cosmos and organisations 
 - [Kava](https://medium.com/kava-labs): Kava Labs blog
 - [Kira Network](https://medium.com/kira-core): Kira's Netowrk blog
-- [Persistance](https://persistenceone.medium.com/): Persistance's blog
+- [Persistence](https://persistenceone.medium.com/): Persistance's blog
 - [Thorchain](https://medium.com/thorchain): Thorchain's blog
 - [Regen Network](https://medium.com/regen-network): Regen Network's blog
 - [Secret Network](https://scrt.network/blog): Secret Network's blog
 - [Sentinel](https://medium.com/sentinel): Sentinel's blog
-
+- [Band Protocol](https://medium.com/bandprotocol): Band Protocol's blog
+- [Starname (IOV)](https://medium.com/iov-internet-of-values): Starname's blog
+- [Althea](https://blog.althea.net/): Althea's blog
+- [Agoric](https://medium.com/agoric): Agoric's blog
+- [Iris Network](https://medium.com/irisnet-blog): Iris Network's blog
 </details>
 
 ### Local
@@ -261,8 +265,13 @@ A list of Discord servers for the Cosmos ecosystem
 <summary>:point_right: Click here to see the Discord server list :point_left:</summary>
 
 - [Cosmos Discord Server](https://discord.gg/xeppPnQ): The main ecosystem Discord server
-- [Akash](http://discord.akash.network/): Akashe's Discord
+- [Akash](http://discord.akash.network/): Akash's Discord
 - [Secret Network](https://discord.gg/HyvXHbqQ): Secret Network's Discord
+- [Band Protocol](https://discord.com/invite/3t4bsY7): Band Protocol's Discord
+- [Starname (IOV)](https://discord.gg/982W2JK): Starname's Discord
+- [Althea](https://t.co/RKtBt7hPhF?amp=1): Althea's Discord
+- [Agoric](https://discord.gg/gC9z6US): Agoric's Discord
+- [Iris Network](https://riot.im/app/#/room/#iris:matrix.org): Iris Network's Riot
 
 </details>
 
@@ -278,6 +287,7 @@ A list of public forums of Cosmos and related projects
 - [Cosmos Forum](https://forum.cosmos.network): The main Cosmos forum
 - [cyber~Congress](https://ai.cybercongress.ai/): Cyber's forum about Cyber and the cyber~Congress DAO 
 - [Staking Defense](https://forum.stakingdefense.org/): About staking and decentralization
+- [Secret Network](https://forum.scrt.network/): Secret Network's Forum
 
 </details>
 
@@ -329,6 +339,12 @@ The ecosystem Telegram list is for Cosmos-based projects chats
 - [Regen Network](https://t.me/regennetwork_public): Regen Network's main group chat
 - [Sentinel](https://t.me/sentinel_co): Sentinel's main group chat
 - [Secret Network](https://t.me/SCRTCommunity): Secret Network's main group chat
+- [Secret Network](https://t.me/SCRTnetwork): Secret Network's announcement channel
+- [Band Protocol](https://t.me/joinchat/E48nA06UIBFmNsE9OaDusQ): Band Protocol's main group chat
+- [Starname (IOV)](https://t.me/internetofvalues): Starname's main group chat
+- [Agoric](https://t.me/agoricsystems): Agoric's main group chat
+
+
 
 </details>
 
@@ -437,19 +453,25 @@ Twitter accounts of projects that are building on Cosmos or work with it
 <details>
 <summary>:point_right: Click here to see the Ecosystem Twitter list :point_left:</summary>
 
-- [Akash](https://twitter.com/akashnet_): Akash Twitter page
-- [Bitsong](https://twitter.com/BitSongOfficial): Bitsong's Twitter
-- [Certic](https://twitter.com/certik_io): Certic's main Twitter
-- [Desmos](https://twitter.com/DesmosNetwork): Desmos network Twitter
-- [e-Money](https://twitter.com/emoney_com): e-Money's Twitter
-- [Ethermint](https://twitter.com/ethermint): The EVM on Tendermint Twitter
-- [Informalinc](https://twitter.com/informalinc): Informal Systems main Twitter account
-- [Irisnetwork](https://twitter.com/irisnetwork): Irisnetwork's main Twitter page
-- [Kava](https://twitter.com/kava_labs): Kava's main Twitter page
-- [Mooncake](https://twitter.com/MooncakeApp): Mooncake Twitter page
+- [Akash](https://twitter.com/akashnet_): Akashnet's Twitter Twitter account
+- [Bitsong](https://twitter.com/BitSongOfficial): Bitsong's Twitter account
+- [Certic](https://twitter.com/certik_io): Certic's main Twitter account
+- [Desmos](https://twitter.com/DesmosNetwork): Desmos Network's Twitter account
+- [e-Money](https://twitter.com/emoney_com): e-Money's Twitter account
+- [Ethermint](https://twitter.com/ethermint): The EVM on Tendermint Twitter account
+- [Informalinc](https://twitter.com/informalinc): Informal Systems' Twitter account
+- [Irisnetwork](https://twitter.com/irisnetwork): Irisnetwork's Twitter account
+- [Kava](https://twitter.com/kava_labs): Kava's Twitter account
+- [Mooncake](https://twitter.com/MooncakeApp): Mooncake's Twitter account
 - [Regen Network](https://twitter.com/regen_network): Regen network's Twitter account
-- [Secret Network](https://twitter.com/SecretNetwork): Secret network's Twitter page
-- [Sentinel](https://twitter.com/Sentinel_co): Sentinel main Twitter page
+- [Secret Network](https://twitter.com/SecretNetwork): Secret network's Twitter account
+- [Sentinel](https://twitter.com/Sentinel_co): Sentinel's Twitter account
+- [Band Protocol](https://twitter.com/bandprotocol): Band Protocols' Twitter account
+- [Starname (IOV)](https://twitter.com/starname_me): Starname's Twitter account
+- [Althea](https://twitter.com/AltheaNetwork): Althea's Twitter account
+- [Agoric](https://twitter.com/agoric): Agoric's Twitter account
+
+
 
 </details>
 
@@ -507,6 +529,7 @@ Twitter accounts of tools and wallets for the Cosmos ecosystem
 - [Big Dipper](https://twitter.com/bigdipperlive): Big Dipper's explorer Twitter
 - [Keplr](https://twitter.com/cosmoskeplr): Keplr's wallet Twitter account
 - [Lunie](https://twitter.com/luniehq): Lunie's wallet Twitter
+- [Cosmostation](https://twitter.com/ibcwallet): Cosmostation's wallet Twitter
 
 </details>
 
@@ -532,6 +555,7 @@ Validator twitter accounts of the Cosmos ecosystem
 - [Persistance](https://twitter.com/AuditOne_): Persistence audit.one validator's Twitter
 - [Staking Hub](https://twitter.com/StakingHub): Staking Hub validator's Twitter
 - [SG-1](https://twitter.com/sg1_online): SG-1 Validator's Twitter
+- [Cosmostation](https://twitter.com/cosmostationvd): Cosmostation Validator's wallet Twitter
 </details>
 
 -------------------
