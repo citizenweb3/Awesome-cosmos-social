@@ -107,7 +107,7 @@ Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Ten
 - [Persistance](https://persistenceone.medium.com/): Persistance's blog
 - [Thorchain](https://medium.com/thorchain): Thorchain's blog
 - [Regen Network](https://medium.com/regen-network): Regen Network's blog
-- [Secret Network](https://blog.scrt.network/): Secret Network's blog
+- [Secret Network](https://scrt.network/blog): Secret Network's blog
 - [Sentinel](https://medium.com/sentinel): Sentinel's blog
 
 </details>
