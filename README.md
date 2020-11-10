@@ -107,7 +107,7 @@ Ecosystem blogs are blogs of projects that are building on Cosmos-SDK and/or Ten
 - [Persistance](https://persistenceone.medium.com/): Persistance's blog
 - [Thorchain](https://medium.com/thorchain): Thorchain's blog
 - [Regen Network](https://medium.com/regen-network): Regen Network's blog
-- [Secret Network](https://blog.scrt.network/): Secret Network's blog
+- [Secret Network](https://scrt.network/blog): Secret Network's blog
 - [Sentinel](https://medium.com/sentinel): Sentinel's blog
 
 </details>
@@ -136,8 +136,9 @@ around the Cosmos ecosystem
 <details>
 <summary>:point_right: Click here to see the blog list for Tools and Wallets :point_left:</summary>
 
-- [Lunie](https://medium.com/luniehq): Lunie's blog
-
+- [Lunie](https://medium.com/luniehq): Lunie's Medium blog
+- [Cosmostation](https://medium.com/cosmostation): Cosmostation's Medium blog
+- [Keplr](https://catdotfish.medium.com/how-to-use-keplr-wallet-40afc80907f6): Keplr Medium Blog Guide
 </details>
 
 ### Validators
