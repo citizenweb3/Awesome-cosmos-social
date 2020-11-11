@@ -162,6 +162,9 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [Node A-Team](https://medium.com/node-a-team): Node A-Team validaotr blog
 - [P2P](https://economy.p2p.org/): P2P validator blog about economy and more
 - [SG-1](https://medium.com/@sg_1/): SG-1's blog
+- [Iqlusion](https://iqlusion.blog/): Iqlusion's blog
+- [Citadel One](https://medium.com/citadel-one): Citadel One's blog
+- [Cosmostation](https://medium.com/cosmostation/validator/home): Cosmostation Validator's blog
 
 </details>
 
@@ -395,17 +398,17 @@ Validator chat groups on Telegram (Cosmos ecosystem)
 <details>
 <summary>:point_right: Click here to see the Telegram list for validator chats :point_left:</summary>
 
-- [Cryptium](https://t.me/tezos_cryptiumlabs): Cryptium validator blog
+- [Cryptium](https://t.me/tezos_cryptiumlabs): Cryptium validator group chat
 - [Everstake](https://t.me/everstake_chat): Everstake's validator group chat
-- [Forbole](https://t.me/forbole): Forbole's chat group
-- [Melea](https://t.me/meleblabla): Melea's group chat
-- [P2P](https://t.me/P2Pstaking): P2P validator chat
+- [Forbole](https://t.me/forbole): Forbole's chat group chat
+- [Melea](https://t.me/meleblabla): Melea's group group chat
+- [P2P](https://t.me/P2Pstaking): P2P validator group chat
 - [SikkaTech](https://t.me/sikkatech): Sikka's group chat
-- [Stakefish](https://t.me/stakefish): Stakefish validator chat
+- [Stakefish](https://t.me/stakefish): Stakefish validator group chat
 - [Stake Capital](https://t.me/StakeCapital): Stake's capital group chat
 - [Staking Hub](https://t.me/StakingHub): Staking hub's group chat (Figment)
 - [SG-1](https://t.me/sg1online): SG-1 Validator's group chat
-
+- [Citadel One](https://t.me/citadelofficial): Citadel One's group chat
 </details>
 
 ### Twitter
@@ -556,7 +559,9 @@ Validator twitter accounts of the Cosmos ecosystem
 - [Persistance](https://twitter.com/AuditOne_): Persistence audit.one validator's Twitter
 - [Staking Hub](https://twitter.com/StakingHub): Staking Hub validator's Twitter
 - [SG-1](https://twitter.com/sg1_online): SG-1 Validator's Twitter
-- [Cosmostation](https://twitter.com/cosmostationvd): Cosmostation Validator's wallet Twitter
+- [Cosmostation](https://twitter.com/cosmostationvd): Cosmostation Validator's Twitter
+- [Iqlusion](https://twitter.com/iqlusioninc/): Iqlusion's Validator's Twitter
+- [Citadel One](link.citadel.one/twitter_land): Citadel One's Validator's Twitter
 </details>
 
 -------------------
