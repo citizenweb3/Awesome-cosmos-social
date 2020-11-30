@@ -157,7 +157,7 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [Citizen Cosmos](https://www.citizencosmos.space/articles): Citizen's Cosmos validator and podcast blog
 - [Cryptium](https://medium.com/cryptium): Cryptrium validator's blog
 - [Dragon Stake](https://dragonstake.io/blog): Dragon Stake validator's blog
-- [Forbole](https://medium.com/forbole): Forbole validator's blog
+- [Forbole](https://www.forbole.com/blog): Forbole validator's blog
 - [Melea](https://meleatrust.com/blog/): Melea validator's blog
 - [Node A-Team](https://medium.com/node-a-team): Node A-Team validator's blog
 - [P2P](https://economy.p2p.org/): P2P validator's blog
@@ -174,25 +174,23 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [Zero Knowledge Validator (ZKV)](https://medium.com/zero-knowledge-validator): ZKV validator's blog
 - [Chorus One](https://blog.chorus.one/): Chorus One validator's blog
 - [Cosmostation](https://medium.com/cosmostation): Cosmostation validator's blog
-- [MultiChain Ventures](https://www.mintscan.io/cosmos/validators/cosmosvaloper1vf44d85es37hwl9f4h9gv0e064m0lla60j9luj)
-- [Figment](https://www.mintscan.io/cosmos/validators/cosmosvaloper1hjct6q7npsspsg3dgvzk3sdf89spmlpfdn6m9d)
+- [MultiChain Ventures](https://www.multichain-ventures.com/): Multichain Ventures' validator's website
+- [Figment](https://figment.io/resources/): Figment validator's blog
 - [Certus One](https://www.mintscan.io/cosmos/validators/cosmosvaloper1qwl879nx9t6kef4supyazayf7vjhennyh568ys)
-- [Polychain Labs](https://www.mintscan.io/cosmos/validators/cosmosvaloper14k4pzckkre6uxxyd2lnhnpp8sngys9m6hl6ml7)
-- [Blockpower](https://www.mintscan.io/cosmos/validators/cosmosvaloper1rpgtz9pskr5geavkjz02caqmeep7cwwpv73axj)
-- [P2P.ORG - P2P Validator](https://www.mintscan.io/cosmos/validators/cosmosvaloper132juzk0gdmwuxvx4phug7m3ymyatxlh9734g4w)
-- [iqlusion](https://www.mintscan.io/cosmos/validators/cosmosvaloper1grgelyng2v6v3t8z87wu3sxgt9m5s03xfytvz7)
-- [Coinbase Custody](https://www.mintscan.io/cosmos/validators/cosmosvaloper1a3yjj7d3qnx4spgvjcwjq9cw9snrrrhu5h6jll)
-- [hashtower](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ma02nlc7lchu7caufyrrqt4r6v2mpsj90y9wzd)
-- [B-Harvest](https://www.mintscan.io/cosmos/validators/cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv)
-- [Forbole](https://www.mintscan.io/cosmos/validators/cosmosvaloper14kn0kk33szpwus9nh8n87fjel8djx0y070ymmj)
-- [Huobi Wallet](https://www.mintscan.io/cosmos/validators/cosmosvaloper12w6tynmjzq4l8zdla3v4x0jt8lt4rcz5gk7zg2)
-- [IRISnet-Bianjie](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ssm0d433seakyak8kcf93yefhknjleeds4y3em)
-- [CoinoneNode](https://www.mintscan.io/cosmos/validators/cosmosvaloper1te8nxpc2myjfrhaty0dnzdhs5ahdh5agzuym9v)
-- [Staking Facilities](https://www.mintscan.io/cosmos/validators/cosmosvaloper1x88j7vp2xnw3zec8ur3g4waxycyz7m0mahdv3p)
-- [SparkPool](https://www.mintscan.io/cosmos/validators/cosmosvaloper1rwh0cxa72d3yle3r4l8gd7vyphrmjy2kpe4x72)
-- [BouBouNode](https://www.mintscan.io/cosmos/validators/cosmosvaloper1eh5mwu044gd5ntkkc2xgfg8247mgc56fz4sdg3)
-- [AUDIT.one](https://www.mintscan.io/cosmos/validators/cosmosvaloper1udpsgkgyutgsglauk9vk9rs03a3skc62gup9ny)
-- [KalpaTech](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe)
+- [Polychain Labs](https://cosmos.polychainlabs.com/): Polychain Labs Validator's website
+- [Blockpower](https://medium.com/blockpower): Blockpower validator's blog
+- [P2P.ORG - P2P Validator](https://economy.p2p.org/): P2P validator's blog
+- [Coinbase Custody](https://blog.coinbase.com/): Coinbase Custody validator's blog
+- [hashtower](https://hashtower.com/): Hashtower validator's website
+- [B-Harvest](https://bharvest.io/): B-Harvest validator's website
+- [Huobi Wallet](https://www.huobiwallet.com/en/): Huobi Wallet validator's website
+- [IRISnet-Bianjie](https://medium.com/irisnet-blog): IRISnet-Bianjie validator's blog
+- [CoinoneNode](https://node.coinone.co.kr/): CoinOneNode validator's website
+- [Staking Facilities](https://stakingfac.medium.com/): Staking Facilities validator's blog
+- [SparkPool](https://cosmos.sparkpool.com/): SparkPool validator's website
+- [BouBouNode](https://boubounode.com/): Boubounode validator's website
+- [AUDIT.one](https://audit.one/): AUDIT.one validator's website
+- [KalpaTech](http://kalpatech.co/): KalpaTech validator's website
 - [ATEAM](https://www.mintscan.io/cosmos/validators/cosmosvaloper14l0fp639yudfl46zauvv8rkzjgd4u0zk2aseys)
 - [validator.network | Security first. Highly available.](https://www.mintscan.io/cosmos/validators/cosmosvaloper1sxx9mszve0gaedz5ld7qdkjkfv8z992ax69k08)
 - [HuobiPool](https://www.mintscan.io/cosmos/validators/cosmosvaloper1kn3wugetjuy4zetlq6wadchfhvu3x740ae6z6x)
