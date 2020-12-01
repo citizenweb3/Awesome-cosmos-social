@@ -226,10 +226,10 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [WeStaking](https://www.westaking.io/): WeStaking validator's website
 - [HashQuark](https://hashquark.medium.com/): HashQuark validator's website
 - [Velocity V1](https://www.mintscan.io/cosmos/validators/cosmosvaloper199mlc7fr6ll5t54w7tts7f4s0cvnqgc59nmuxf): no website/blog
-- [Compass](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ff0dw8kawsnxkrgj7p65kvw7jxxakyf8n583gx)
-- [🐡grant.fish](https://www.mintscan.io/cosmos/validators/cosmosvaloper1xym2qygmr9vanpa0m7ndk3n0qxgey3ffzcyd5c)
-- [kytzu](https://www.mintscan.io/cosmos/validators/cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u)
-- [Sentinel](https://www.mintscan.io/cosmos/validators/cosmosvaloper1u6ddcsjueax884l3tfrs66497c7g86skn7pa0u)
+- [Compass](http://val.network/): Compass validator's website
+- [🐡grant.fish](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40): 🐡grant.fish validator's blog
+- [kytzu](https://www.mintscan.io/cosmos/validators/cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u): no website/blog
+- [Sentinel](https://medium.com/sentinel): Sentinel validator's blog
 - [jackzampolin](https://www.mintscan.io/cosmos/validators/cosmosvaloper130mdu9a0etmeuw52qfxk73pn0ga6gawkxsrlwf)
 - [Wetez](https://www.mintscan.io/cosmos/validators/cosmosvaloper1s05va5d09xlq3et8mapsesqh6r5lqy7mkhwshm)
 - [X-Stake](https://www.mintscan.io/cosmos/validators/cosmosvaloper1zxphhzuweenrq3vvgsgj6g25axdpghtglg0veq)
