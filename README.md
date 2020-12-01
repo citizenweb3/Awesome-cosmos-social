@@ -170,7 +170,6 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [DokiaCapital](https://staking.dokia.cloud/): DokiaCapital validator's website
 - [Sikka](https://www.sikka.tech/): Sikka validator's website
 - [Kraken](https://www.kraken.com/en-us/learn): Kraken validator's blog
-- [CCN](https://www.mintscan.io/cosmos/validators/cosmosvaloper1qaa9zej9a0ge3ugpx3pxyx602lxh3ztqgfnp42): no website/blog
 - [Zero Knowledge Validator (ZKV)](https://medium.com/zero-knowledge-validator): ZKV validator's blog
 - [Chorus One](https://blog.chorus.one/): Chorus One validator's blog
 - [Cosmostation](https://medium.com/cosmostation): Cosmostation validator's blog
