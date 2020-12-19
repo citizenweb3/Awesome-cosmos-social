@@ -229,26 +229,24 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [🐡grant.fish](https://medium.com/stakefish/launching-grant-fish-validator-81634d882c40): 🐡grant.fish validator's blog
 - [kytzu](https://www.mintscan.io/cosmos/validators/cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u): no website/blog
 - [Sentinel](https://medium.com/sentinel): Sentinel validator's blog
-- [jackzampolin](https://www.mintscan.io/cosmos/validators/cosmosvaloper130mdu9a0etmeuw52qfxk73pn0ga6gawkxsrlwf)
-- [Wetez](https://www.mintscan.io/cosmos/validators/cosmosvaloper1s05va5d09xlq3et8mapsesqh6r5lqy7mkhwshm)
-- [X-Stake](https://www.mintscan.io/cosmos/validators/cosmosvaloper1zxphhzuweenrq3vvgsgj6g25axdpghtglg0veq)
-- [Stake Capital](https://www.mintscan.io/cosmos/validators/cosmosvaloper1k9a0cs97vul8w2vwknlfmpez6prv8klv03lv3d)
-- [Swiss Staking](https://www.mintscan.io/cosmos/validators/cosmosvaloper1y0us8xvsvfvqkk9c6nt5cfyu5au5tww2ztve7q)
-- [Easy 2 Stake](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e0plfg475phrsvrlzw8gwppeva0zk5yg9fgg8c)
-- [zugerselfdelegation](https://www.mintscan.io/cosmos/validators/cosmosvaloper1gdg6qqe5a3u483unqlqsnullja23g0xvqkxtk0)
-- [gf.network](https://www.mintscan.io/cosmos/validators/cosmosvaloper1dse76yk5jmj85jsd77ewsczc4k3u4s7a870wtj)
-- [Stir](https://www.mintscan.io/cosmos/validators/cosmosvaloper1d0aup392g3enru7eash83sedqclaxvp7fzh6gk)
-- [Cosmic Validator](https://www.mintscan.io/cosmos/validators/cosmosvaloper1de7qx00pz2j6gn9k88ntxxylelkazfk3g8fgh9)
-- [Citizen Cosmos](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u)
-- [Firmamint](https://www.mintscan.io/cosmos/validators/cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn)
-- [Mythos](https://www.mintscan.io/cosmos/validators/cosmosvaloper1w0330zv7quttes76vmdhda3tnz045uqs37wfx0)
-- [BlockMatrix 🚀](https://www.mintscan.io/cosmos/validators/cosmosvaloper1n5pu2rtz4e2skaeatcmlexza7kheedzh8a2680)
-- [stake.systems](https://www.mintscan.io/cosmos/validators/cosmosvaloper1ualhu3fjgg77g485gmyswkq3w0dp7gys6qzwrv)
-- [Genesis Lab](https://www.mintscan.io/cosmos/validators/cosmosvaloper1wdrypwex63geqswmcy5qynv4w3z3dyef2qmyna)
-- [blockscape](https://www.mintscan.io/cosmos/validators/cosmosvaloper13x77yexvf6qexfjg9czp6jhpv7vpjdwwkyhe4p)
-- [👾replicator.network](https://www.mintscan.io/cosmos/validators/cosmosvaloper1et77usu8q2hargvyusl4qzryev8x8t9wwqkxfs)
-- [FRESHATOMS](https://www.mintscan.io/cosmos/validators/cosmosvaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgjkfg0gh)
-- [noma](https://www.mintscan.io/cosmos/validators/cosmosvaloper1r8kyvg4me2upnvlk26n2ay0zd5t4jktna8hhxp)
+- [jackzampolin](https://pylonvalidator.com/): Pylon Validator's website
+- [FRESHATOMS](https://freshatoms.com): FreshAtoms validator's website
+- [Wetez](https://www.wetez.io/pc/blog): Wetez validator's blog
+- [X-Stake](https://www.xstake.io/): X-Stake validator's website
+- [Stake Capital](https://www.stake.capital/): Stake Capital validator's website
+- [Swiss Staking](https://swiss-staking.ch/): Swiss Staking validator's website
+- [Easy 2 Stake](www.easy2stake.com): Easy 2 Stake validator's website
+- [zugerselfdelegation](https://www.mintscan.io/cosmos/validators/cosmosvaloper1gdg6qqe5a3u483unqlqsnullja23g0xvqkxtk0): no website/blog
+- [gf.network](https://www.mintscan.io/cosmos/validators/cosmosvaloper1dse76yk5jmj85jsd77ewsczc4k3u4s7a870wtj): no website/blog
+- [Stir](https://www.mintscan.io/cosmos/validators/cosmosvaloper1d0aup392g3enru7eash83sedqclaxvp7fzh6gk): no website/blog
+- [Cosmic Validator](https://medium.com/@cosmicvalidator): Cosmic Validator's blog
+- [Mythos](https://mythos.services/): Mythos validator's website
+- [BlockMatrix 🚀](https://www.mintscan.io/cosmos/validators/cosmosvaloper1n5pu2rtz4e2skaeatcmlexza7kheedzh8a2680): no website/blog
+- [stake.systems](https://www.stake.systems/): Stake Systems validator's webiste
+- [Genesis Lab](https://genesislab.net/): Genesis Lab validator's webiste
+- [blockscape](https://blockscape.network/): Blockscape validator's webiste
+- [👾replicator.network](https://replicator.network/): Replicator Network validator's webiste
+- [noma](https://www.mintscan.io/cosmos/validators/cosmosvaloper1r8kyvg4me2upnvlk26n2ay0zd5t4jktna8hhxp): no website/blog
 - [2nd only to Certus One in GoS: in3s.com](https://www.mintscan.io/cosmos/validators/cosmosvaloper1rcp29q3hpd246n6qak7jluqep4v006cdsc2kkl)
 - [omega3](https://www.mintscan.io/cosmos/validators/cosmosvaloper1s6t3wzx6mcv3pjg5fp2ddzplm3gj4pg6d330wg)
 - [SSSnodes](https://www.mintscan.io/cosmos/validators/cosmosvaloper1vrg6ruw00lhszl4sjgwt5ldvl8z0f7pfp5va85)
@@ -284,6 +282,8 @@ Validator blogs. Not just of those around Cosmos-hub, but the Cosmos ecosystem a
 - [Just-Mining](https://www.mintscan.io/cosmos/validators/cosmosvaloper1wrx0x9m9ykdhw9sg04v7uljme53wuj03aa5d4f)
 - [AirGap 🛡](https://www.mintscan.io/cosmos/validators/cosmosvaloper1n3f5lm7xtlrp05z9ud2xk2cnvk2xnzkm2he6er)
 - [Public Payments](https://www.mintscan.io/cosmos/validators/cosmosvaloper1t00q7dp0wslx34kee4elz496ts2uqlwphz860l)
+- [Firmamint](https://www.mintscan.io/cosmos/validators/cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn)
+
 </details>
 
 -------------------
